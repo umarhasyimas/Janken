@@ -1,7 +1,14 @@
-Janken Versi 1.0
+Janken Versi 1.0.0
 https://www.mahakurawa.my.id
 
 =================================================
+
+This Janken game app is just one of variation of Rock Paper Scissor.
+
+# Written
+
+- Python 3 
+- PyQT 5
 
 # Licence
 
